@@ -13,6 +13,10 @@
 - Python 3.11+
 - Virtual environment recommended (`venv`)
 
+### 📦 React & Vite
+
+- Tested with Node 23.11 and npm 10.9, but should work with older versions
+
 ### 🎧 Audio Routing
 
 - **BlackHole (2ch)** for macOS → https://existential.audio/blackhole/
